@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+               
+    <string name="app_name">MyPosition</string>
+	<string name="act_settings">Settings</string>
+    
+    <string name="lbl_gps">GPS provider:</string>
+    <string name="lbl_net">Net provider:</string>
+    <string name="lbl_pas">Passive provider:</string>
+    <string name="lbl_adr">Address:</string>    
+	<string name="lbl_nd">No Data</string>
+	
+	
+	<color name="bg_color">#55CCCCCC</color>
+    
+</resources>

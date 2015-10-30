@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	    	
+	<!-- Actions resources -->    	  
+    	       
+    	<!-- Group "Action" -->
+    	<string name="act_copy">Копировать</string>
+    	<string name="act_paste">Вставить</string>
+    	<string name="act_send">Отправить</string>
+    	
+    	<!-- Group "Action Item" -->
+		<string name="act_item_copy">Копировать Элемент</string>
+    	<string name="act_item_paste">Вставить Элемент</string>
+    	<string name="act_item_send">Отправить Элемент</string>    		
+    	
+    	<!-- Group "Edit" -->
+    	<string name="act_add">Добавить</string>
+    	<string name="act_edit">Изменить</string>
+    	<string name="act_del">Удалить</string>
+    	
+		<!-- Group "Edit Item" -->
+    	<string name="act_item_add">Добавить Элемент</string>
+    	<string name="act_item_edit">Изменить Элемент</string>
+    	<string name="act_item_del">Удалить Элемент</string>    	
+    	
+		<!-- Group "Settings" -->
+		<string name="act_settings">Настройки</string>
+		
+	<!-- Menus resources -->
+	
+		<!-- Group "Any" -->
+		<string name="menu_any">Любое</string>
+		<string name="menu_item_any">Любой Элемент</string>
+				
+		<string name="menu_save">Save</string>
+		<string name="menu_cancel">Cancel</string>		
+		
+		<!-- Group "Sub" -->
+		<string name="menu_sub1">Подменю</string>
+		<string name="menu_sub1_any1">Подменю 1</string>
+		<string name="menu_sub1_any2">Подменю 2</string>
+		<string name="menu_sub1_any3">Подменю 3</string>		
+    	    	    
+    <!-- Activity ActMain resources -->
+    
+    	<!-- UI components  -->    
+    	<string name="hello_world">Привет мир!</string>
+    	
+    	<!-- Options Menu -->
+    	<string name="act_main_menu_any">Любое</string>
+    	
+
+</resources>
